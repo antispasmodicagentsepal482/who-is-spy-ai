@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  who-is-spy:
+    build: .
+    container_name: who-is-spy-ai
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    # 核心設定：讓容器內的程式可以透過 host.docker.internal 連到你電腦上的 Ollama
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+
+networks:
+  default:
+    name: who-is-spy-network
